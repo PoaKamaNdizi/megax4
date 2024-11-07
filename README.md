@@ -4,7 +4,7 @@ This core adds full support for ATmega644P and ATmeg1284P microcontrollers
 into the Arduino IDE.
 
 ## WARNING! This version only works with IDE >= 1.6.7.
-
+## PoaKamaNdizi info: not true, it won't work with Arduino IDE 1.6.7., but it does with version 1.8.19.
 
 ### Installation
 
